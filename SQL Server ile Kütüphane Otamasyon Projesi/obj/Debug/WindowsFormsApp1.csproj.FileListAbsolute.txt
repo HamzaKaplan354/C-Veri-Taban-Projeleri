@@ -1,0 +1,11 @@
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
